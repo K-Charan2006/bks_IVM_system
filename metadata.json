@@ -1,0 +1,5 @@
+{
+  "name": "Bharat Kisan Sathiya IVR",
+  "description": "An interactive voice response (IVR) simulation for an agricultural assistance app, allowing users to navigate menus using a keypad.",
+  "requestFramePermissions": []
+}
